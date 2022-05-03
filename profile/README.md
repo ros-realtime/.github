@@ -27,6 +27,6 @@ https://github.com/orgs/ros-realtime/projects/5
 
 ## Examples
 
-- [ros2-realtime-examples](https://github.com/ros-realtime/ros2-realtime-examples): A project to host ROS 2 real-time benchmark results
+- [ros2-realtime-examples](https://github.com/ros-realtime/ros2-realtime-examples): Minimal ROS 2 real-time cookbook recipes 
 
 
