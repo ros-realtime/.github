@@ -1,33 +1,32 @@
 # ROS 2 Real-Time Working Group
 
-This document defines the scope and governance of the ROS 2 Real-Time Working Group.
-
 The Real-Time Working Group's mission is to advocate for and work on memory management, real-time pub/sub, real-time DDS, and tools that allow tracing, profiling and optimizing.
 
-The ROS 2 Real-Time Working Group documentation is hosted at https://ros-realtime.github.io/.
+## Documentation
 
-### Meetings
+The ROS 2 Real-Time Working Group documentation is hosted at https://ros-realtime.github.io/
 
-* Regular WG Meeting: every other Tuesday at 7 AM Pacific time, see the [ROS Events calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-* To receive meeting invitations, join [ros-real-time-working-group-invites](https://groups.google.com/forum/#!forum/ros-real-time-working-group-invites)
-* Meeting notes are kept under [ROS 2 Real-time Working Group Agenda](https://docs.google.com/document/d/1zBKwDUDeWvJNyCvjzYriaZQoZO2VYGWe1uxw5Xxn5cY/edit?ts=5ec9aabe#heading=h.rwvriogv081)
-* Meetings are recorded and available in [ROS 2 Real-time Working Group Agenda](https://docs.google.com/document/d/1zBKwDUDeWvJNyCvjzYriaZQoZO2VYGWe1uxw5Xxn5cY/edit?ts=5ec9aabe#heading=h.rwvriogv081).
-* Meetings are open to the public, and anyone is welcome to join
+## Project board
 
-### Communication Channels
+https://github.com/orgs/ros-realtime/projects/5
 
-- ROS discourse tag [wg-real-time](https://discourse.ros.org/tag/wg-real-time)
-- Chat in the [Real-time WG Room on Matrix](https://matrix.to/#/#ros-realtime:matrix.org?via=matrix.org)
+## List of projects
 
-### Roadmap
+### General
 
-See the [roadmap](https://real-time-working-group.readthedocs.io/en/latest/Roadmap/Roadmap.html) document and the [github roadmap board](https://github.com/orgs/ros-realtime/projects/2).
+- [community](https://github.com/ros-realtime/community): WG governance model and communication channels
 
-### Governance
+### Tools
+- [linux-real-time-kernel-builder](https://github.com/ros-realtime/linux-real-time-kernel-builder): build and setup RT kernel for the ROS 2 testing
+- [ros-realtime-rpi4-image](https://github.com/ros-realtime/ros-realtime-rpi4-image): A flashable image builder for the Raspberry Pi 4 with ROS 2 and Linux RT preinstalled
 
-See the [governance](profile/governance.md) document for more information.
+## Benchmarks
+- [ros2_realtime_benchmarks](https://github.com/ros-realtime/ros2_realtime_benchmarks): A project to host ROS 2 real-time benchmark results
+- [reference-system](https://github.com/ros-realtime/reference-system): A reference system that simulates real-world systems in order to more fairly compare various configurations of executors and other settings
+- [ros_realtime_benchmarks_config](https://github.com/ros-realtime/ros_realtime_benchmarks_config): Contains configuration files and scripts to run and generate the reports for all the different supported ROS 2 real-time benchmark tools
 
-### How to Contribute
+## Examples
 
-See the [contributing](https://real-time-working-group.readthedocs.io/en/latest/Contributing/how_to_contribute.html) document for more information.
+- [ros2-realtime-examples](https://github.com/ros-realtime/ros2-realtime-examples): A project to host ROS 2 real-time benchmark results
+
 
