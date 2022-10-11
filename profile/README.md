@@ -21,7 +21,7 @@ https://github.com/orgs/ros-realtime/projects/5
 - [ros-realtime-rpi4-image](https://github.com/ros-realtime/ros-realtime-rpi4-image): A flashable image builder for the Raspberry Pi 4 with ROS 2 and Linux RT preinstalled
 
 ## Benchmarks
-- ros2_realtime_benchmarks: A project to host ROS 2 real-time benchmark results
+- `ros2_realtime_benchmarks`: A project to host ROS 2 real-time benchmark results
    - Visualization: [ros2_realtime_benchmarks](https://ros-realtime.github.io/ros2_realtime_benchmarks/)
    - Repository: [ros2_realtime_benchmarks](https://github.com/ros-realtime/ros2_realtime_benchmarks)
 - [reference-system](https://github.com/ros-realtime/reference-system): A reference system that simulates real-world systems in order to more fairly compare various configurations of executors and other settings
